@@ -1,0 +1,44 @@
+.container {   
+    margin-top: 2rem; 
+    column-count: 2;
+
+    
+    
+}
+.box1 {
+ border: 2 1 rem ;
+ height: 60vh;
+ border-color: black solid;
+ background-image: url('https://mdbootstrap.com/img/Photos/Others/images/6.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center center;
+ border-bottom-right-radius: 40%;
+border-top-left-radius: 40%;
+}
+
+.sandbox {
+    margin-top: rem;
+    height: 60vh;
+    border-top-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+    background: -webkit-linear-gradient(rgba(245, 244, 252, 0.658), rgba(130, 218, 240, 0.979));
+
+
+    
+
+
+
+}
+
+.btn {
+
+   margin: 1rem;    padding: .5rem .8rem;
+    background: #d87e7e59;
+    border: none;
+
+    border-radius: 3rem;
+
+    outline: none;
+    margin-bottom: 1rem;
+}

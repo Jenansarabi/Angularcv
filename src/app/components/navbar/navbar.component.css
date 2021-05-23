@@ -1,0 +1,25 @@
+nav {
+    background:transparent;
+    padding: 1rem 0;
+}
+
+nav .container {
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul {
+    display: inline-block;
+    justify-content: space-around;
+    list-style: none;
+    width: 20%;
+}
+
+a {
+    color: rgba(243, 105, 81, 0.952) ;
+    text-decoration: none;
+    font-size:x-large
+}
